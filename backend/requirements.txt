@@ -14,5 +14,4 @@ chromadb
 sentence-transformers
 
 ollama
-
 python-dotenv
